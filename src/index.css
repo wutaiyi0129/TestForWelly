@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.number{
+  font-size: 100px;
+  color: #3a42d7;
+}
+.IncreaseButton{
+  background-color: rgb(255, 11, 11);
+font-size: 50px; 
+}
+.DecreaseButton{
+  background-color: rgb(46, 236, 62);
+  font-size: 50px;
+}
